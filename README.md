@@ -1,0 +1,1 @@
+Stats in 10-minutes describes various basic statistical concepts in an easy to digest format including short Python examples and implementation. The notbooks can be used as a refresher or as beginner material.
